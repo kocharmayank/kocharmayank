@@ -1,3 +1,4 @@
 - Hi, I’m @kocharmayank
 - I’m learning mysql and practing database creation
+- I'm also learning python
 - I look forward to interact and share skills
